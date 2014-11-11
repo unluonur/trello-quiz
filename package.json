@@ -1,0 +1,22 @@
+{
+  "name": "trello-quiz",
+  "version": "1.0.0",
+  "description": "Solution for Trello quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unluonur/trello-quiz.git"
+  },
+  "keywords": [
+    "trello"
+  ],
+  "author": "unluonur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unluonur/trello-quiz/issues"
+  },
+  "homepage": "https://github.com/unluonur/trello-quiz"
+}
